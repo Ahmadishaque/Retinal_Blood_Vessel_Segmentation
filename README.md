@@ -166,6 +166,6 @@ Predicted masks and overlayed visualizations will be saved in the results/ direc
 **Ahmad Ishaque Karimi**  
 Graduate Student — Data Science & Computer Vision Research  
 📧 ahmadishaquekarimi@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile])
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmadishaquekarimi/)
 
 ---

@@ -1,0 +1,23 @@
+# Core Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image Processing and Scientific Computing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.25.0
+scikit-image>=0.22.0
+
+# Utilities and Progress Tracking
+tqdm>=4.66.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.12.2
+
+# Data Handling and Experiment Reproducibility
+pandas>=2.0.3
+scipy>=1.11.0
+
+# Optional but Recommended
+jupyter>=1.0.0
